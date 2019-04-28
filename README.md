@@ -11,7 +11,7 @@ How to reproduce
 
 To see examples of how to reproduce the experimental results you can see the submission file to slurm written here:
 
-https://github.com/brando90/Generalization-Puzzles-in-Deep-Networks/blob/master/pytorch_experiments/my_sbatch.sh
+https://github.com/liaoq/Generalization-Puzzles-in-Deep-Networks/blob/master/pytorch_experiments/my_sbatch.sh
 
 but an example command is:
 
@@ -23,6 +23,6 @@ note that the important file is `flatness_expts.py`. The experiments are simple 
 
 Note that the file:
 
-https://github.com/brando90/Generalization-Puzzles-in-Deep-Networks/blob/master/pytorch_experiments/flatness_expts.py
+https://github.com/liaoq/Generalization-Puzzles-in-Deep-Networks/blob/master/pytorch_experiments/flatness_expts.py
 
 is a slurm submission script and one can use the array command to send multiple runs of similar experiments.
