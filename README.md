@@ -4,7 +4,11 @@ Generalization-Puzzles-in-Deep-Networks
 
 In this repository we have the code for experiments produced in the following paper:
 
-A surprising linear relationship predicts test performance in deep networks (https://arxiv.org/pdf/1807.09659.pdf)
+Generalization-Puzzles-in-Deep-Networks (TODO LINK)
+
+the arvix version of the paper can be found here:
+
+`A surprising linear relationship predicts test performance in deep networks` (https://arxiv.org/pdf/1807.09659.pdf)
 
 How to reproduce
 --
