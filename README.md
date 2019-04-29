@@ -30,3 +30,5 @@ Note that the file:
 https://github.com/liaoq/Generalization-Puzzles-in-Deep-Networks/blob/master/pytorch_experiments/flatness_expts.py
 
 is a slurm submission script and one can use the array command to send multiple runs of similar experiments.
+
+There are some additional scripts in the folder `feb19` which can be run with python3
